@@ -26,6 +26,8 @@
 
 immediate invokable functional expression
 
+## IQ's
+
 1. what are promises ??
 
 2. drawbacks ??
